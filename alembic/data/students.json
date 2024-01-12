@@ -1,0 +1,37 @@
+ [
+      {
+        "email": "student1@example.com",
+        "role": 2,
+        "password": "password123",
+        "created_at": "2024-01-10 00:20:00-06",
+        "updated_at": "2024-01-10 00:20:00-06"
+      },
+      {
+        "email": "student2@example.com",
+        "role": 2,
+        "password": "pass456",
+        "created_at": "2024-01-10 00:20:00-06",
+        "updated_at": "2024-01-10 00:20:00-06"
+      },
+      {
+        "email": "student3@example.com",
+        "role": 2,
+        "password": "mysecret",
+        "created_at": "2024-01-10 00:20:00-06",
+        "updated_at": "2024-01-10 00:20:00-06"
+      },
+      {
+        "email": "student4@example.com",
+        "role": 2,
+        "password": "securepass",
+        "created_at": "2024-01-10 00:20:00-06",
+        "updated_at": "2024-01-10 00:20:00-06"
+      },
+      {
+        "email": "student5@example.com",
+        "role": 2,
+        "password": "letmein",
+        "created_at": "2024-01-10 00:20:00-06",
+        "updated_at": "2024-01-10 00:20:00-06"
+      }
+    ]
